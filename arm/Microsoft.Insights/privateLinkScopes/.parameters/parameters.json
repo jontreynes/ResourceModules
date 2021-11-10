@@ -10,7 +10,8 @@
                 {
                     "roleDefinitionIdOrName": "Reader",
                     "principalIds": [
-                        "cf33fea8-b30f-424f-ab73-c48d99e0b222"
+                        //"cf33fea8-b30f-424f-ab73-c48d99e0b222"
+                        "d7a30743-ea6d-4209-9058-6c087f8b8e32"
                     ]
                 }
             ]
