@@ -18,6 +18,7 @@ on:
   push:
     branches:
       - main
+      - users/**
     paths:
       - '.github/actions/templates/**'
       - '.github/workflows/ms.insights.privatelinkscopes.yml'
